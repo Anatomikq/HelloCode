@@ -2,4 +2,4 @@
 string username = Console.ReadLine();
 Console.Write("Привет, ");
 Console.Write(username);
-12345
+123456
